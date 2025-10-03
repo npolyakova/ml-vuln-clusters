@@ -1,7 +1,7 @@
 SQL Injection;
 Base Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection');
 Variant SQL Injection: Hibernate;
-Improper Neutralization of Special Elements used in an SQL Command ("SQL Injection")
+Improper Neutralization of Special Elements used in an SQL Command ("SQL Injection");
 XSS Injection;
 Base Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting');
 Category OWASP Top Ten 2017 Category A7 - Cross-Site Scripting (XSS);
@@ -24,7 +24,7 @@ Base Insufficient Session Expiration;
 Base Unverified Password Change;
 Base Weak Password Recovery Mechanism for Forgotten Password;
 CWE-798: Use of Hardcoded Credentials;
-Incorrect Default Permissions
+Incorrect Default Permissions;
 CWE-269: Improper Privilege Management;
 CWE-863: Incorrect Authorization;
 CWE-862: Missing Authorization;
